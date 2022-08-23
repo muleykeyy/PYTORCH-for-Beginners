@@ -1,7 +1,11 @@
 # PYTORCH-for-Beginners
 
       
-      
+Data Set : https://www.kaggle.com/datasets/ashmmani/mnist-data
+
+Kaggle: https://www.kaggle.com/code/hilalmleykeyuksel/pytorch-for-beginners/notebook
+
+
 # Content:
 1. PYTORCH
     * CREATE TENSORS
